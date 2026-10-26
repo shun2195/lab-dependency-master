@@ -1,0 +1,17 @@
+{
+  "name": "dut-core-math-utils",
+  "version": "1.0.0",
+  "description": "Thư viện các phép toán đại số.",
+  "main": "index.js",
+  "author": "Nguyễn Hồng Nhung - 102230259 - 23T_DT2",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "lodash": "4.17.15"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
